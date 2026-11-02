@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.1.0-dev",
+  "versionCode": 52,
+  "versionName": "1.1.1-dev",
   "apkUrl": "https://github.com/Mina-application/Minandra-play-dev-releases/releases/latest/download/Mt-dev.apk",
-  "changelog": "التحويل للفيديو والتشغيل بقوا أسرع، وتقطيع أقل."
+  "changelog": "الأغاني اللي بتحفظيها بقت بتظهر في الصفحة الرئيسية."
 }
