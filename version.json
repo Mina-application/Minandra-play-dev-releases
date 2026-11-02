@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.0.5-dev",
+  "versionCode": 47,
+  "versionName": "1.0.6-dev",
   "apkUrl": "https://github.com/Mina-application/Minandra-play-dev-releases/releases/latest/download/Mt-dev.apk",
-  "changelog": "إصلاح تسجيل الدخول لجوجل، و YouTube Music بياخد حساب YouTube لوحده من غير تسجيل دخول تاني."
+  "changelog": "اقتراحات البحث بقت بتظهر وإنتي بتكتبي في YouTube و YouTube Music."
 }
