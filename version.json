@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "1.0.9-dev",
+  "versionCode": 51,
+  "versionName": "1.1.0-dev",
   "apkUrl": "https://github.com/Mina-application/Minandra-play-dev-releases/releases/latest/download/Mt-dev.apk",
-  "changelog": "مفتاح OpenRouter بيتقبل دلوقتي، وفيه زرار عين يظهر المفتاح."
+  "changelog": "التحويل للفيديو والتشغيل بقوا أسرع، وتقطيع أقل."
 }
