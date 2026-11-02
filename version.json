@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.1.1-dev",
+  "versionCode": 53,
+  "versionName": "1.1.2-dev",
   "apkUrl": "https://github.com/Mina-application/Minandra-play-dev-releases/releases/latest/download/Mt-dev.apk",
-  "changelog": "الأغاني اللي بتحفظيها بقت بتظهر في الصفحة الرئيسية."
+  "changelog": "شكل البرنامج بقى أفتح، وفيه زرار في الإعدادات يرجّع الشكل الغامق."
 }
