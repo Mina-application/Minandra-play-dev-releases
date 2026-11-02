@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.0.7-dev",
+  "versionCode": 49,
+  "versionName": "1.0.8-dev",
   "apkUrl": "https://github.com/Mina-application/Minandra-play-dev-releases/releases/latest/download/Mt-dev.apk",
-  "changelog": "بعد الـ login بترجعي لصفحة البرنامج على طول، وزرار Song / Video يحول الأغنية للفيديو من نفس الثانية."
+  "changelog": "صفحة المكتبة بقت بتنزل لحد آخر playlist."
 }
