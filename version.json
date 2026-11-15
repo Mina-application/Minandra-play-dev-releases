@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "1.1.3-dev",
+  "versionCode": 55,
+  "versionName": "1.2.0-dev",
   "apkUrl": "https://github.com/Mina-application/Minandra-play-dev-releases/releases/latest/download/Mt-dev.apk",
-  "changelog": "لما تحركي شريط الفيديو، بتظهرلك صورة المشهد مع الوقت."
+  "changelog": "ثيم فاتح، كاريوكي على المشغّل، تخصيص الرئيسية، قوائم محلية، تداخل بين الأغاني، واستكمال آخر جلسة واقفة."
 }
